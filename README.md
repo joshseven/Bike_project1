@@ -1,5 +1,7 @@
 # Bike_Project
-Sample of product landing page website built with HTML and CSS.
+
+##Goal
+Create a duplicate of a sample product landing page website with HTML and CSS.
 
 
 ## Tools used
@@ -8,19 +10,33 @@ Sample of product landing page website built with HTML and CSS.
 * CSS grid
 * CSS flexbox
 
+
 ## Template used as sample
-![]
-(Design/Prototype.png)
+![](Design/Template_group.png)
+
+Sample template of a product landing page.
+
+## Wireframe design and layout
+![](Design/Wireframe.png)
+
+Adobe XD wireframe layout.
 
 
+
+
+## Prototype of Bike Project (Web/Tablet/Phone)
+![](Design/Prototype.png)
+
+
+Prototype layout of Bike project with Web/Tablet/Phone projected look.
 
 
 ## To do list
 - [x] Write the README.MD
-- [ ] Add Template Photo
-- [ ] Add Wireframes
-- [ ] Add prototype Images
+- [x] Add Template Photo
+- [x] Add Wireframes
+- [x] Add prototype Images
 - [ ] Update the website
 
-# Active_site1
+
 # Bike_project1
