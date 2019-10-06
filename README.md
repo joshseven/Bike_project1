@@ -1,6 +1,6 @@
 # Bike_Project
 
-##Goal
+## Goal
 Create a duplicate of a sample product landing page website with HTML and CSS.
 
 
