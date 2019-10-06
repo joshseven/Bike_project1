@@ -9,8 +9,8 @@ Sample of product landing page website built with HTML and CSS.
 * CSS flexbox
 
 ## Template used as sample
-![image of bike]
-(
+![]
+(Design/Prototype.png)
 
 
 
