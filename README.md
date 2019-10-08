@@ -3,13 +3,11 @@
 ## Goal
 Create a duplicate sample of a product landing page website with HTML and CSS.
 
-
 ## Tools used
 * VS Code
 * Adobe XD
 * CSS grid
 * CSS flexbox
-
 
 ## Template used as sample
 ![](Design/Template_group.png)
@@ -20,7 +18,6 @@ Sample template of a product landing page.
 ![](Design/Wireframe.png)
 
 Adobe XD wireframe layout.
-
 
 
 
