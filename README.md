@@ -1,7 +1,7 @@
 # Bike_Project
 
 ## Goal
-Create a duplicate of a sample product landing page website with HTML and CSS.
+Create a duplicate sample of a product landing page website with HTML and CSS.
 
 
 ## Tools used
